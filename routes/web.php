@@ -7,5 +7,10 @@ Route::get('/', function () {
 });
 
 Route::get('/saludo', function () {
-    return "Hola desde Laravel";
+    return "Hola";
 });
+
+Route::get('/contacto', function () {
+    return "Página de contacto";
+});
+
