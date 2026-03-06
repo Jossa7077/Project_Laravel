@@ -31,7 +31,7 @@
     <div style="margin-top:40px; text-align:center;">
 
         <h1 style="font-size:30px; font-weight:bold;">
-            Bienvenido a mi Proyecto en Laravel
+            Hola mi nombre es Jaider Santiago Jossa Ramos
         </h1>
 
         <p style="margin-top:15px; font-size:18px;">
